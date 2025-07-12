@@ -37,4 +37,4 @@ Cada proyecto es una nueva meta alcanzada. ¡Gracias por visitar mi portafolio! 
 
 ---
 
-_By Jheremy & ChatGPT 💻🩵_
+_By Jheremy 💻🩵_
