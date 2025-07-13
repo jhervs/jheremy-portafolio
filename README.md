@@ -24,6 +24,13 @@ Aquí puedes explorar mis proyectos actuales. Cada carpeta contiene un proyecto 
 *(Próximamente más proyectos… 🚀)*
 
 
+## 🎥 Vista previa destacada
+
+¡Mira cómo funciona uno de mis proyectos en acción!
+
+![Simulador MRU en acción](./simulador_mru/simulador_mru_demo.gif)
+
+
 ## 🛠️ Tecnologías usadas
 
 - **Python** (como lenguaje principal)
