@@ -31,15 +31,6 @@ Todo el proceso ocurre desde una interfaz sencilla por consola, con mensajes cla
 
 ---
 
-## ▶️ Cómo ejecutarlo
-
-1. Clona el repositorio o descarga esta carpeta.
-2. Abre una terminal en la ruta del archivo `simulador_mru.py`.
-3. Ejecuta el programa con:
-
-```bash
-python simulador_mru.py
-
 ## 📝 ¿Cómo usarlo?
 
 1. Ejecuta el archivo `mru_final.py`
@@ -69,3 +60,12 @@ Este proyecto me ayudó a poner en práctica:
 Gracias por leer y por acompañarme en este camino 💻🩵
 
 > **“No hay código perfecto, pero sí mejora constante.” ✨**
+
+## ▶️ Cómo ejecutarlo
+
+1. Clona el repositorio o descarga esta carpeta.
+2. Abre una terminal en la ruta del archivo `simulador_mru.py`.
+3. Ejecuta el programa con:
+
+```bash
+python simulador_mru.py
