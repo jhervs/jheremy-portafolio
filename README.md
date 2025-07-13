@@ -13,11 +13,16 @@ Este repositorio es mi portafolio de proyectos personales mientras avanzo en mi 
 Este repositorio está organizado en carpetas.  
 Cada carpeta representa un proyecto completo y funcional, con su propio código limpio, documentación y estructura interna.
 
-## 📂 Contenido
-- [Simulador MRU](./simulador_mru) - Cálculo de distancia, velocidad o tiempo.
-- (Próximamente más proyectos…)
+## 📂 Contenido del Portafolio
 
-*(Próximamente iré agregando más proyectos a medida que avanzo en mi formación.)*
+Aquí puedes explorar mis proyectos actuales. Cada carpeta contiene un proyecto funcional con su documentación interna.
+
+| Proyecto | Descripción | Enlace |
+|----------|-------------|--------|
+| Simulador MRU | Calculadora en consola que permite obtener distancia, velocidad o tiempo aplicando fórmulas del Movimiento Rectilíneo Uniforme. | [Ver proyecto](./simulador_mru) |
+
+*(Próximamente más proyectos… 🚀)*
+
 
 ## 🛠️ Tecnologías usadas
 
