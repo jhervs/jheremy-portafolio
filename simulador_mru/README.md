@@ -1,5 +1,11 @@
 # Simulador de MRU 📘✨
 
+## 🎥 Demostración en acción
+
+¡Aquí puedes ver el simulador en funcionamiento real! 👇
+
+![Simulador MRU en acción](./simulador_mru.gif)
+
 Este proyecto consiste en un **simulador de Movimiento Rectilíneo Uniforme (MRU)**, creado como parte del aprendizaje de los fundamentos de Python.
 
 Desarrollado por **Jheremy 💻🩵** como su primer proyecto completo, incluye dos versiones:
