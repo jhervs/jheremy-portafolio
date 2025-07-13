@@ -17,6 +17,8 @@ Puedes calcular cualquiera de las siguientes variables:
 - 🚀 **Velocidad** → si conoces la distancia y el tiempo
 - ⏱️ **Tiempo** → si conoces la distancia y la velocidad
 
+Todo el proceso ocurre desde una interfaz sencilla por consola, con mensajes claros y validación de entrada básica.
+
 ---
 
 ## 🧠 ¿Qué tecnologías se usaron?
@@ -28,6 +30,15 @@ Puedes calcular cualquiera de las siguientes variables:
 - Bucles `while`, condicionales `if-elif-else`
 
 ---
+
+## ▶️ Cómo ejecutarlo
+
+1. Clona el repositorio o descarga esta carpeta.
+2. Abre una terminal en la ruta del archivo `simulador_mru.py`.
+3. Ejecuta el programa con:
+
+```bash
+python simulador_mru.py
 
 ## 📝 ¿Cómo usarlo?
 
@@ -52,16 +63,6 @@ Este proyecto me ayudó a poner en práctica:
 ## 💙 Sobre mí
 
 ¡Hola! Soy **Jheremy**, futuro ingeniero informático y programador 💻✨. Este es mi primer paso hacia un portafolio profesional que irá creciendo semana a semana. Puedes seguir mis avances y proyectos aquí en GitHub. 🩵
-
----
-
-## 📂 Estructura del proyecto
-
-```
-simulador_mru/
-├── simulador_mru.py              # Código limpio y funcional
-└── README.md                 # Este archivo que estás leyendo
-```
 
 ---
 
