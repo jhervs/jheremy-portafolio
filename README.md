@@ -29,7 +29,7 @@ Aquí puedes explorar mis proyectos actuales. Cada carpeta contiene un proyecto 
 
 ¡Mira cómo funciona uno de mis proyectos en acción!
 
-![Simulador MRU en acción](./simulador_mru/simulador_mru.gif)
+![Simulador MRU en acción](./to-do_list/to_do_list.gif)
 
 
 ## 🛠️ Tecnologías usadas
