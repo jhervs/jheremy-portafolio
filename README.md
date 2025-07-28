@@ -20,6 +20,7 @@ Aquí puedes explorar mis proyectos actuales. Cada carpeta contiene un proyecto 
 | Proyecto | Descripción | Enlace |
 |----------|-------------|--------|
 | Simulador MRU | Calculadora en consola que permite obtener distancia, velocidad o tiempo aplicando fórmulas del Movimiento Rectilíneo Uniforme. | [Ver proyecto](./simulador_mru) |
+| To-do list      | Aplicación de consola para organizar tareas, editarlas, marcarlas como finalizadas o posponerlas. Ideal para gestionar pendientes diarios. | [Ver proyecto](./to_do_list) |
 
 *(Próximamente más proyectos… 🚀)*
 
