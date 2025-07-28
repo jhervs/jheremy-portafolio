@@ -1,4 +1,4 @@
-#Projecto To-do list
+#Projecto To-do list (finalizado)
 
 """ 
 Programa: To-do list project
