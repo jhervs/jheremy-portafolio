@@ -1,4 +1,3 @@
-<<<<<<< HEAD:to_do_list/README.md
 # Gestor de Tareas – To-do List 📘✨
 
 ## 🎥 Demostración en acción
