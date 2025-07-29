@@ -151,4 +151,3 @@ Este es uno de mis proyectos personales como parte de mi preparación para la un
 Gracias por leer y por acompañarme en este camino 💻🩵
 
 > **“Cada línea de código es un paso hacia la meta.” ✨**
->>>>>>> c8c70959107488f26dd80c2696a50b5a220b6e58:to-do_list/README.md
